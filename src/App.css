@@ -1,0 +1,13 @@
+*{
+  text-align: center;
+}
+p{
+  background-color: rgba(28, 138, 240, 0.434);
+  padding: 20px;
+  color: black;
+  font-weight: bold;
+}
+h1{
+  color: black;
+  background-color:rgba(28, 138, 240, 0.434);
+}
